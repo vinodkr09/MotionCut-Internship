@@ -14,9 +14,7 @@ Overall, the CSS stylesheet provides a well-designed and visually appealing layo
 
 
 
-## Output
-(![Output 1](<images/Image 1.png>))
-(![Output 2](<images/Image 2.png>))
+
 
 
 
