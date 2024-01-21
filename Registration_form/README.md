@@ -9,3 +9,6 @@ HTML code is a registration form with input fields for the username, email, and 
 3) If all the fields are filled in, an alert message is displayed to the user, confirming the successful registration and displaying the username and email provided by the user.
 
 In the CSS code, the flexbox layout is used to center the form vertically and horizontally. The background gradient color, box shadow, and other styles are applied to enhance the visual appeal of the form.
+
+## Output
+(![Registration form output](<![](output-2.png)>))
