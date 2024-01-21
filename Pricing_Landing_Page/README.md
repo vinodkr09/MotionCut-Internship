@@ -17,6 +17,8 @@ The web page should include the following features:
 2. Implementing a responsive design was also challenging as it required a thorough understanding of CSS Grid and Flexbox.
 
 
+## Output
+ (![Output](<Price Landing page output.png>))
 
 
 
