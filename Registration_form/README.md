@@ -11,4 +11,4 @@ HTML code is a registration form with input fields for the username, email, and 
 In the CSS code, the flexbox layout is used to center the form vertically and horizontally. The background gradient color, box shadow, and other styles are applied to enhance the visual appeal of the form.
 
 ## Output
-(![Registration form output](<![](output-2.png)>))
+(![output image](<Registration form output.png>))
